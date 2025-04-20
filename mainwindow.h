@@ -20,7 +20,6 @@ public:
     ~mainWindow();
 
 public slots:
-    void browse();
     void parse();
 signals:
 
